@@ -1,0 +1,14 @@
+{
+  "name": "edit-github-file-commit-pull-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^16.28.7"
+  }
+}
